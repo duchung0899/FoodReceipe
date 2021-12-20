@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodReceipeAppKotlin</string>
+    <string name="category_name">Category Name</string>
+</resources>
